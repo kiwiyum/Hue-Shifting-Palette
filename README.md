@@ -1,6 +1,8 @@
 # Hue-Shifting-Palette
 
 This repository contains code for Hue shifting color variation, described in https://youtu.be/PNtMAxYaGyg?feature=shared. 
+
+
 Check youtube video on how hue shifting works.
 
 
